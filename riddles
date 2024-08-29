@@ -1,0 +1,502 @@
+[
+  {
+    "riddle": "What has to be broken before you can use it?",
+    "options": ["A mirror", "A rule", "An egg", "A window"],
+    "answer": "An egg"
+  },
+  {
+    "riddle": "I’m tall when I’m young, and I’m short when I’m old. What am I?",
+    "options": ["A tree", "A candle", "A pencil", "A shadow"],
+    "answer": "A candle"
+  },
+  {
+    "riddle": "What month of the year has 28 days?",
+    "options": ["February", "All of them", "April", "January"],
+    "answer": "All of them"
+  },
+  {
+    "riddle": "What is full of holes but still holds water?",
+    "options": ["A sponge", "A bucket", "A net", "A sieve"],
+    "answer": "A sponge"
+  },
+  {
+    "riddle": "What question can you never answer yes to?",
+    "options": ["Are you asleep yet?", "Is it raining?", "Are you hungry?", "Do you understand?"],
+    "answer": "Are you asleep yet?"
+  },
+  {
+    "riddle": "What is always in front of you but can’t be seen?",
+    "options": ["The air", "The horizon", "The future", "The present"],
+    "answer": "The future"
+  },
+  {
+    "riddle": "There’s a one-story house in which everything is yellow. Yellow walls, yellow doors, yellow furniture. What color are the stairs?",
+    "options": ["Yellow", "There aren’t any", "White", "Brown"],
+    "answer": "There aren’t any—it’s a one-story house."
+  },
+  {
+    "riddle": "What can you break, even if you never pick it up or touch it?",
+    "options": ["A heart", "A rule", "A promise", "A mirror"],
+    "answer": "A promise"
+  },
+  {
+    "riddle": "What goes up but never comes down?",
+    "options": ["Your age", "A balloon", "Smoke", "A bird"],
+    "answer": "Your age"
+  },
+  {
+    "riddle": "A man who was outside in the rain without an umbrella or hat didn’t get a single hair on his head wet. Why?",
+    "options": ["He was bald", "He was under a tree", "He was running", "He had a hood"],
+    "answer": "He was bald."
+  },
+  {
+    "riddle": "What gets wet while drying?",
+    "options": ["A towel", "A sponge", "A napkin", "A handkerchief"],
+    "answer": "A towel"
+  },
+  {
+    "riddle": "What can you keep after giving to someone?",
+    "options": ["Your love", "Your word", "A secret", "A gift"],
+    "answer": "Your word"
+  },
+  {
+    "riddle": "I shave every day, but my beard stays the same. What am I?",
+    "options": ["A barber", "A razor", "A mirror", "A mask"],
+    "answer": "A barber"
+  },
+  {
+    "riddle": "You see a boat filled with people, yet there isn’t a single person on board. How is that possible?",
+    "options": ["The boat is sinking", "The boat is empty", "All the people on the boat are married", "It's a ghost ship"],
+    "answer": "All the people on the boat are married."
+  },
+  {
+    "riddle": "You walk into a room that contains a match, a kerosene lamp, a candle, and a fireplace. What would you light first?",
+    "options": ["The candle", "The fireplace", "The match", "The lamp"],
+    "answer": "The match"
+  },
+  {
+    "riddle": "A man dies of old age on his 25th birthday. How is this possible?",
+    "options": ["He was born on February 29", "He was lying", "He was cloned", "He was in a coma"],
+    "answer": "He was born on February 29."
+  },
+  {
+    "riddle": "I have branches, but no fruit, trunk or leaves. What am I?",
+    "options": ["A bank", "A river", "A road", "A family tree"],
+    "answer": "A bank"
+  },
+  {
+    "riddle": "What can’t talk but will reply when spoken to?",
+    "options": ["A parrot", "An echo", "A ghost", "A mirror"],
+    "answer": "An echo"
+  },
+  {
+    "riddle": "The more of this there is, the less you see. What is it?",
+    "options": ["Fog", "Smoke", "Darkness", "Snow"],
+    "answer": "Darkness"
+  },
+  {
+    "riddle": "David’s parents have three sons: Snap, Crackle, and what’s the name of the third son?",
+    "options": ["Pop", "David", "Tom", "Sam"],
+    "answer": "David"
+  },
+  {
+    "riddle": "I follow you all the time and copy your every move, but you can’t touch me or catch me. What am I?",
+    "options": ["A mirror", "Your reflection", "Your shadow", "A twin"],
+    "answer": "Your shadow"
+  },
+  {
+    "riddle": "What has many keys but can’t open a single lock?",
+    "options": ["A typewriter", "A piano", "A map", "A dictionary"],
+    "answer": "A piano"
+  },
+  {
+    "riddle": "What can you hold in your left hand but not in your right?",
+    "options": ["A pencil", "Your left hand", "Your right elbow", "A cup"],
+    "answer": "Your right elbow"
+  },
+  {
+    "riddle": "What is black when it’s clean and white when it’s dirty?",
+    "options": ["A chalkboard", "A blackboard", "A newspaper", "A whiteboard"],
+    "answer": "A chalkboard"
+  },
+  {
+    "riddle": "What gets bigger when more is taken away?",
+    "options": ["A hole", "A shadow", "A gap", "A problem"],
+    "answer": "A hole"
+  },
+  {
+    "riddle": "I’m light as a feather, yet the strongest person can’t hold me for five minutes. What am I?",
+    "options": ["Your breath", "A cloud", "A balloon", "A thought"],
+    "answer": "Your breath"
+  },
+  {
+    "riddle": "I’m found in socks, scarves and mittens; and often in the paws of playful kittens. What am I?",
+    "options": ["Wool", "Thread", "Yarn", "Cotton"],
+    "answer": "Yarn"
+  },
+  {
+    "riddle": "Where does today come before yesterday?",
+    "options": ["The dictionary", "A calendar", "In a dream", "In a story"],
+    "answer": "The dictionary"
+  },
+  {
+    "riddle": "What invention lets you look right through a wall?",
+    "options": ["A window", "A mirror", "A hole", "A telescope"],
+    "answer": "A window"
+  },
+  {
+    "riddle": "If you’ve got me, you want to share me; if you share me, you haven’t kept me. What am I?",
+    "options": ["A secret", "A gift", "A joke", "A smile"],
+    "answer": "A secret"
+  },
+  {
+    "riddle": "What can’t be put in a saucepan?",
+    "options": ["Its lid", "Water", "Salt", "Oil"],
+    "answer": "Its lid"
+  },
+  {
+    "riddle": "What goes up and down but doesn’t move?",
+    "options": ["A seesaw", "A hill", "A staircase", "A ladder"],
+    "answer": "A staircase"
+  },
+  {
+    "riddle": "If you’re running in a race and you pass the person in second place, what place are you in?",
+    "options": ["First place", "Second place", "Third place", "Fourth place"],
+    "answer": "Second place"
+  },
+  {
+    "riddle": "It belongs to you, but other people use it more than you do. What is it?",
+    "options": ["Your name", "Your phone", "Your time", "Your money"],
+    "answer": "Your name"
+  },
+  {
+    "riddle": "What has lots of eyes, but can’t see?",
+    "options": ["A needle", "A potato", "A peacock", "A fly"],
+    "answer": "A potato"
+  },
+  {
+    "riddle": "What has one eye, but can’t see?",
+    "options": ["A needle", "A storm", "A button", "A keyhole"],
+    "answer": "A needle"
+  },
+  {
+    "riddle": "What has many needles, but doesn’t sew?",
+    "options": ["A cactus", "A porcupine", "A Christmas tree", "A sewing machine"],
+    "answer": "A Christmas tree"
+  },
+  {
+    "riddle": "What has hands, but can’t clap?",
+    "options": ["A clock", "A robot", "A tree", "A statue"],
+    "answer": "A clock"
+  },
+  {
+    "riddle": "What has legs, but doesn’t walk?",
+    "options": ["A chair", "A bed", "A table", "A sofa"],
+    "answer": "A table"
+  },
+  {
+    "riddle": "What has one head, one foot and four legs?",
+    "options": ["A chair", "A bed", "A turtle", "A table"],
+    "answer": "A bed"
+  },
+  {
+    "riddle": "What can you catch, but not throw?",
+    "options": ["A ball", "A cold", "A smile", "A train"],
+    "answer": "A cold"
+  },
+  {
+    "riddle": "What kind of band never plays music?",
+    "options": ["A rock band", "A rubber band", "A hair band", "A brass band"],
+    "answer": "A rubber band"
+  },
+  {
+    "riddle": "What has many teeth, but can’t bite?",
+    "options": ["A saw", "A comb", "A zipper", "A gear"],
+    "answer": "A comb"
+  },
+  {
+    "riddle": "What is cut on a table, but is never eaten?",
+    "options": ["A deck of cards", "A pizza", "A cake", "A fruit"],
+    "answer": "A deck of cards"
+  },
+  {
+    "riddle": "What has words, but never speaks?",
+    "options": ["A letter", "A book", "A newspaper", "A computer"],
+    "answer": "A book"
+  },
+  {
+    "riddle": "What runs all around a backyard, yet never moves?",
+    "options": ["A dog", "A fence", "A shadow", "A tree"],
+    "answer": "A fence"
+  },
+  {
+    "riddle": "What can travel all around the world without leaving its corner?",
+    "options": ["A map", "A plane", "A letter", "A stamp"],
+    "answer": "A stamp"
+  },
+  {
+    "riddle": "What has a thumb and four fingers, but is not a hand?",
+    "options": ["A glove", "A mitten", "A doll", "A robot"],
+    "answer": "A glove"
+  },
+  {
+    "riddle": "What has a head and a tail but no body?",
+    "options": ["A snake", "A coin", "A kite", "A comet"],
+    "answer": "A coin"
+  },
+  {
+    "riddle": "Where does one wall meet the other wall?",
+    "options": ["At the corner", "At the ceiling", "On the floor", "In the middle"],
+    "answer": "On the corner"
+  },
+  {
+    "riddle": "What building has the most stories?",
+    "options": ["The library", "A skyscraper", "A bookshop", "A museum"],
+    "answer": "The library"
+  },
+  {
+    "riddle": "What tastes better than it smells?",
+    "options": ["A flower", "Your tongue", "A fruit", "A perfume"],
+    "answer": "Your tongue"
+  },
+  {
+    "riddle": "What has 13 hearts, but no other organs?",
+    "options": ["A human", "A clock", "A deck of cards", "A calendar"],
+    "answer": "A deck of cards"
+  },
+  {
+    "riddle": "It stalks the countryside with ears that can’t hear. What is it?",
+    "options": ["A scarecrow", "Corn", "A tractor", "A wolf"],
+    "answer": "Corn"
+  },
+  {
+    "riddle": "What kind of coat is best put on wet?",
+    "options": ["A raincoat", "A coat of paint", "A fur coat", "A winter coat"],
+    "answer": "A coat of paint"
+  },
+  {
+    "riddle": "What has a bottom at the top?",
+    "options": ["A hill", "A mountain", "Your legs", "A cup"],
+    "answer": "Your legs"
+  },
+  {
+    "riddle": "What has four wheels and flies?",
+    "options": ["A plane", "A garbage truck", "A kite", "A drone"],
+    "answer": "A garbage truck"
+  },
+  {
+    "riddle": "I am an odd number. Take away a letter and I become even. What number am I?",
+    "options": ["Seven", "Eleven", "Nine", "Thirteen"],
+    "answer": "Seven"
+  },
+  {
+    "riddle": "If two’s company, and three’s a crowd, what are four and five?",
+    "options": ["Eight", "Nine", "Ten", "Eleven"],
+    "answer": "Nine"
+  },
+  {
+    "riddle": "What three numbers, none of which is zero, give the same result whether they’re added or multiplied?",
+    "options": ["One, two, three", "Three, four, five", "Two, three, four", "One, three, five"],
+    "answer": "One, two, three"
+  },
+  {
+    "riddle": "Mary has four daughters, and each of her daughters has a brother. How many children does Mary have?",
+    "options": ["Five", "Six", "Eight", "Four"],
+    "answer": "Five—each daughter has the same brother."
+  },
+  {
+    "riddle": "Which is heavier: a ton of bricks or a ton of feathers?",
+    "options": ["Bricks", "Feathers", "Neither", "Both"],
+    "answer": "Neither—they both weigh a ton."
+  },
+  {
+    "riddle": "Three doctors said that Bill was their brother. Bill says he has no brothers. How many brothers does Bill actually have?",
+    "options": ["One", "None", "Two", "Three"],
+    "answer": "None. He has three sisters."
+  },
+  {
+    "riddle": "Two fathers and two sons are in a car, yet there are only three people in the car. How?",
+    "options": ["They are strangers", "They are cousins", "They are a grandfather, father, and son", "They are friends"],
+    "answer": "They are a grandfather, father, and son."
+  },
+  {
+    "riddle": "The day before yesterday I was 21, and next year I will be 24. When is my birthday?",
+    "options": ["December 31", "January 1", "February 29", "November 30"],
+    "answer": "December 31; today is January 1."
+  },
+  {
+    "riddle": "A little girl goes to the store and buys one dozen eggs. As she is going home, all but three break. How many eggs are left unbroken?",
+    "options": ["One", "Two", "Three", "None"],
+    "answer": "Three"
+  },
+  {
+    "riddle": "A man describes his daughters, saying, “They are all blonde, but two; all brunette but two; and all redheaded but two.” How many daughters does he have?",
+    "options": ["Three", "Four", "Five", "Six"],
+    "answer": "Three: A blonde, a brunette, and a redhead."
+  },
+  {
+    "riddle": "If there are three apples and you take away two, how many apples do you have?",
+    "options": ["One", "Two", "Three", "None"],
+    "answer": "You have two apples."
+  },
+  {
+    "riddle": "A girl has as many brothers as sisters, but each brother has only half as many brothers as sisters. How many brothers and sisters are there in the family?",
+    "options": ["Three brothers and four sisters", "Two brothers and three sisters", "Four brothers and three sisters", "Three brothers and three sisters"],
+    "answer": "Four sisters and three brothers."
+  },
+  {
+    "riddle": "What five-letter word becomes shorter when you add two letters to it?",
+    "options": ["Short", "Small", "Large", "Quick"],
+    "answer": "Short"
+  },
+  {
+    "riddle": "What begins with an 'e' and only contains one letter?",
+    "options": ["Envelope", "Eagle", "Ear", "Echo"],
+    "answer": "An envelope"
+  },
+  {
+    "riddle": "A word I know, six letters it contains, remove one letter and 12 remains. What is it?",
+    "options": ["Dozens", "Twelve", "Dozens", "Letters"],
+    "answer": "Dozens"
+  },
+  {
+    "riddle": "What would you find in the middle of Toronto?",
+    "options": ["The letter 'o'", "A park", "The letter 't'", "The CN Tower"],
+    "answer": "The letter 'o'"
+  },
+  {
+    "riddle": "You see me once in June, twice in November, and not at all in May. What am I?",
+    "options": ["The letter 'e'", "The moon", "The letter 'n'", "A leaf"],
+    "answer": "The letter 'e'"
+  },
+  {
+    "riddle": "Two in a corner, one in a room, zero in a house, but one in a shelter. What is it?",
+    "options": ["The letter 'r'", "A window", "A shadow", "The letter 'o'"],
+    "answer": "The letter 'r'"
+  },
+  {
+    "riddle": "I am the beginning of everything, the end of everywhere. I'm the beginning of eternity, the end of time and space. What am I?",
+    "options": ["The letter 'e'", "A circle", "The universe", "The letter 'r'"],
+    "answer": "The letter 'e'"
+  },
+  {
+    "riddle": "What 4-letter word can be written forward, backward, or upside down, and can still be read from left to right?",
+    "options": ["NOON", "DEED", "NEON", "BOON"],
+    "answer": "NOON"
+  },
+  {
+    "riddle": "Forward I am heavy, but backward I am not. What am I?",
+    "options": ["The word 'ton'", "A cart", "A book", "A truck"],
+    "answer": "The word 'ton'"
+  },
+  {
+    "riddle": "What is 3/7 chicken, 2/3 cat and 2/4 goat?",
+    "options": ["Chicago", "China", "Chicagot", "Chili"],
+    "answer": "Chicago"
+  },
+  {
+    "riddle": "I am a word of letters three; add two and fewer there will be. What word am I?",
+    "options": ["Few", "One", "Some", "Bit"],
+    "answer": "Few"
+  },
+  {
+    "riddle": "What word of five letters has one left when two are removed?",
+    "options": ["Stone", "Bread", "Toast", "Table"],
+    "answer": "Stone"
+  },
+  {
+    "riddle": "What is the end of everything?",
+    "options": ["The letter 'g'", "The sun", "The world", "A circle"],
+    "answer": "The letter 'g'"
+  },
+  {
+    "riddle": "What word is pronounced the same if you take away four of its five letters?",
+    "options": ["Queue", "Que", "Cue", "Quest"],
+    "answer": "Queue"
+  },
+  {
+    "riddle": "I am a word that begins with the letter 'i.' If you add the letter 'a' to me, I become a new word with a different meaning, but that sounds exactly the same. What word am I?",
+    "options": ["Isle", "It", "Item", "Idea"],
+    "answer": "Isle"
+  },
+  {
+    "riddle": "What word in the English language does the following: The first two letters signify a male, the first three letters signify a female, the first four letters signify a great, while the entire world signifies a great woman. What is the word?",
+    "options": ["Heroine", "Her", "Hero", "Herald"],
+    "answer": "Heroine"
+  },
+  {
+    "riddle": "What is so fragile that saying its name breaks it?",
+    "options": ["Silence", "Glass", "A mirror", "Ice"],
+    "answer": "Silence"
+  },
+  {
+    "riddle": "What can run but never walks, has a mouth but never talks, has a head but never weeps, has a bed but never sleeps?",
+    "options": ["A river", "A car", "A cloud", "A shadow"],
+    "answer": "A river"
+  },
+  {
+    "riddle": "Speaking of rivers, a man calls his dog from the opposite side of the river. The dog crosses the river without getting wet, and without using a bridge or boat. How?",
+    "options": ["The river was frozen", "The dog jumped", "The dog swam", "There was a narrow bridge"],
+    "answer": "The river was frozen"
+  },
+  {
+    "riddle": "What can fill a room but takes up no space?",
+    "options": ["Light", "Air", "Water", "A shadow"],
+    "answer": "Light"
+  },
+  {
+    "riddle": "If you drop me I’m sure to crack, but give me a smile and I’ll always smile back. What am I?",
+    "options": ["A mirror", "An egg", "A glass", "A plate"],
+    "answer": "A mirror"
+  },
+  {
+    "riddle": "The more you take, the more you leave behind. What are they?",
+    "options": ["Footsteps", "Memories", "Shadows", "Time"],
+    "answer": "Footsteps"
+  },
+  {
+    "riddle": "I turn once, what is out will not get in. I turn again, what is in will not get out. What am I?",
+    "options": ["A key", "A door", "A wheel", "A lock"],
+    "answer": "A key"
+  },
+  {
+    "riddle": "People make me, save me, change me, raise me. What am I?",
+    "options": ["Money", "A child", "A flag", "A building"],
+    "answer": "Money"
+  },
+  {
+    "riddle": "What breaks yet never falls, and what falls yet never breaks?",
+    "options": ["Day, and night", "Glass, and water", "A heart, and love", "Ice, and snow"],
+    "answer": "Day, and night"
+  },
+  {
+    "riddle": "What goes through cities and fields, but never moves?",
+    "options": ["A road", "A cloud", "A bird", "A shadow"],
+    "answer": "A road"
+  },
+  {
+    "riddle": "I am always hungry and will die if not fed, but whatever I touch will soon turn red. What am I?",
+    "options": ["Fire", "A lion", "A flower", "A bird"],
+    "answer": "Fire"
+  },
+  {
+    "riddle": "The person who makes it has no need of it; the person who buys it has no use for it. The person who uses it can neither see nor feel it. What is it?",
+    "options": ["A coffin", "A chair", "A bed", "A car"],
+    "answer": "A coffin"
+  },
+  {
+    "riddle": "A man looks at a painting in a museum and says, 'Brothers and sisters I have none, but that man’s father is my father’s son.' Who is in the painting?",
+    "options": ["The man’s son", "The man", "The man's father", "The man's grandfather"],
+    "answer": "The man’s son"
+  },
+  {
+    "riddle": "With pointed fangs I sit and wait; with piercing force I crunch out fate; grabbing victims, proclaiming might; physically joining with a single bite. What am I?",
+    "options": ["A stapler", "A snake", "A lion", "A bear"],
+    "answer": "A stapler"
+  },
+  {
+    "riddle": "I have lakes with no water, mountains with no stone, and cities with no buildings. What am I?",
+    "options": ["A map", "A dream", "A desert", "A book"],
+    "answer": "A map"
+  }
+]
