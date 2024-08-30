@@ -1,0 +1,38 @@
+{
+  "message": "",
+  "error": 0,
+  "data": {
+    "categories": [
+      {
+        "id": 1,
+        "name": "Rules",
+        "img": "https://i.ibb.co/brGMPJP/2024-05-02-16-00-52.png",
+        "price": 30,
+        "created_at": null,
+        "goods": [
+          {
+            "id": 91,
+            "name": "Main Rules",
+            "img": "https://i.ibb.co/n3NkJJK/rules.jpg",
+            "price": 200,
+            "description": "Зop the bubbles on the screen, some contain hidden riddles; if you answer the riddle correctly, your points are doubled"
+          },
+          {
+            "id": 90,
+            "name": "Riddles",
+            "img": "https://i.ibb.co/g9W90vc/riddles.jpg",
+            "price": 250,
+            "description": "The riddle always has 4 answer options, only by answering correctly you get double points"
+          },
+          {
+            "id": 92,
+            "name": "Main View",
+            "img": "https://i.ibb.co/4ShyZY7/mainview.jpg,
+            "price": 300,
+            "description": "You can click on the circle and upload your profile photo, when you click on the buttons you can start playing or view the rules and tips"
+          }
+        ]
+      }
+    ]
+  }
+}
